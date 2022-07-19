@@ -25,7 +25,6 @@ pip install imageio matplotlib
 pip install install yacs kornia robpy
 ```
 check all the virson correctly from requirment file
-'''
 aiohttp==3.8.1
 aiosignal==1.2.0
 anyio==3.6.1
@@ -143,8 +142,6 @@ wslink==1.6.6
 yacs==0.1.8
 yarl==1.7.2
 zipp==3.8.1
-
-'''
 
 
 
